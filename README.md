@@ -6,7 +6,7 @@
 <p align ="center">
 
   
-  <a href="mailto:Hayatansar0797@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:hayatansar0797@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
    <a href="https://www.linkedin.com/in/Hayat-Ansar" target="_blank">
